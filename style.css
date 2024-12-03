@@ -24,3 +24,11 @@ nav ul li a{
     display: block;
     margin: 0 auto 20px;/*Center the photo and add some bottom margin*/
 }
+#projects{
+    padding: 20px;
+}
+.project{
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
